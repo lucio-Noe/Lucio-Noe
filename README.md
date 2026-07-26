@@ -53,7 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucio-Noe&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucio-Noe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
