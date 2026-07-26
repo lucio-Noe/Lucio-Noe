@@ -19,6 +19,16 @@
 
 ---
 
+### Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kokou-no%C3%A9-lucio-aflagah-63b93b414/">
+    <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin" alt="Mon profil LinkedIn" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 | Domaine | Technologies |
@@ -51,4 +61,3 @@
 <p align="center">
   📫 <i>N'hésite pas à me contacter pour collaborer sur des projets Data/IA ou Backend !</i>
 </p>
-https://www.linkedin.com/in/kokou-no%C3%A9-lucio-aflagah-63b93b414/
