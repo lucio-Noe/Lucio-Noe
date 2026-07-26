@@ -51,3 +51,4 @@
 <p align="center">
   📫 <i>N'hésite pas à me contacter pour collaborer sur des projets Data/IA ou Backend !</i>
 </p>
+https://www.linkedin.com/in/kokou-no%C3%A9-lucio-aflagah-63b93b414/
